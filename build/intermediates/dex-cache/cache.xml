@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\publishapps\Checklist\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="D:\publishapps\Checklist\app\build\intermediates\pre-dexed\release\classes-3b4b895378bd42ee0b461c6a92eda48ec1fbc8ba.jar" />
+    </item>
+    <item
+        jar="E:\android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\publishapps\Checklist\app\build\intermediates\pre-dexed\release\support-annotations-22.0.0-2bfa169f9f908cbcbc926d7d43a09696b12a1738.jar" />
+    </item>
+    <item
+        jar="D:\publishapps\Checklist\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\publishapps\Checklist\app\build\intermediates\pre-dexed\release\internal_impl-22.0.0-8f2a4774822a473cec824df3ed94d33f1bc2ef55.jar" />
+    </item>
+    <item
+        jar="D:\publishapps\Checklist\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\publishapps\Checklist\app\build\intermediates\pre-dexed\release\classes-9472df142f5bd805eafba70507c9af93a19b9499.jar" />
+    </item>
+
+</items>
